@@ -9,3 +9,7 @@
 - [apka do ćwiczeń](https://github.com/naugtur/example-unmaintainable-app)
 
 - [art o leftpad](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
+
+## Kiedy
+
+18 listopada
