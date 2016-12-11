@@ -1,6 +1,11 @@
 # notatki
 
-(wszyscy mogą tu śmiało pisać jakby co)
+### Zadanie opcjonalne
+
+Przypominam o opcjonalnym zadaniu - open source software contribution
+Na najbliższe zajęcia, jeśli chcecie ten dodatkowy punkt, przygotujcie sobie kilka pomysłów co zrobić - pomogę Wam wybrać co będzie wystarczające, ale nie zbyt wielkie.
+
+W razie problemów z wyborem/znalezieniem, to może pomóc: http://up-for-grabs.net/#/tags/JavaScript
 
 ## Linki
 
@@ -12,4 +17,5 @@
 
 ## Kiedy
 
-18 listopada
+16 grudnia
+a potem jeszcze jeden w styczniu
