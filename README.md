@@ -18,4 +18,5 @@ W razie problemów z wyborem/znalezieniem, to może pomóc: http://up-for-grabs.
 ## Kiedy
 
 16 grudnia
-a potem jeszcze jeden w styczniu
+
+13 stycznia
