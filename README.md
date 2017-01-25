@@ -1,5 +1,7 @@
 # notatki
 
+Prosta, nieformalna ankieta, uzupełnijcie w wolnej chwili [https://goo.gl/forms/3HZGIPqxpdEKLdPF2](https://goo.gl/forms/3HZGIPqxpdEKLdPF2)
+
 ### Zadanie opcjonalne
 
 Przypominam o opcjonalnym zadaniu - open source software contribution
